@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "mef-subnational-efficiency": {
+      "command": "python",
+      "args": ["src/mcp_server.py"],
+      "env": {
+        "PYTHONPATH": "src"
+      }
+    }
+  }
+}
