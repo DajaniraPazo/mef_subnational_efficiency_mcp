@@ -1,0 +1,11 @@
+{
+  "cached_hit": false,
+  "source": "offline_transcription",
+  "pages_processed": 15,
+  "min_pages_required": 15,
+  "meets_volume_rule": true,
+  "total_lines": 60,
+  "quantified_line_items": 15,
+  "lines_path": "C:\\Users\\ASUS VIVOBOOK\\OneDrive - Universidad de Lima\\UP DATA SCIENCE\\TAREA 4\\mef_subnational_efficiency_mcp\\mef_subnational_efficiency_mcp\\data\\processed\\ocr_lines_1964.parquet",
+  "generated_at": "2026-06-06T23:04:07.590768+00:00"
+}
