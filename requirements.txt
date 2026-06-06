@@ -1,0 +1,26 @@
+# --- Core data engineering (anti-context-flood pipeline) ---
+pandas>=2.2.0
+duckdb>=1.0.0
+pyarrow>=16.0.0
+requests>=2.32.0
+
+# --- Local MCP server ---
+mcp>=1.2.0
+
+# --- Dashboard ---
+streamlit>=1.38.0
+plotly>=5.22.0
+altair>=5.3.0
+
+# --- 1964 OCR capture track ---
+paddleocr>=2.8.1
+paddlepaddle>=2.6.1
+pdf2image>=1.17.0
+pillow>=10.3.0
+opencv-python-headless>=4.10.0
+
+# --- PDF download / page rasterization fallback ---
+pypdf>=4.2.0
+
+# --- Misc ---
+python-dotenv>=1.0.1

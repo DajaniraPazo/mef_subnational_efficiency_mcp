@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project-specific: heavy raw downloads regenerated locally by the MCP tools
+data/raw_pdfs/*.pdf
+streamlit.log
+shot_*.png
