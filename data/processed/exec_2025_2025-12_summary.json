@@ -1,0 +1,13 @@
+{
+  "source": "synthetic_fallback",
+  "n_units": 115,
+  "n_units_over_threshold": 104,
+  "n_underperformers": 39,
+  "national_pim": 5261850176.1900015,
+  "national_devengado": 2954227690.2800007,
+  "national_avance_pct": 56.14,
+  "frozen_capital_pen": 2307622485.91,
+  "snapshot_path": "C:\\Users\\ASUS VIVOBOOK\\OneDrive - Universidad de Lima\\UP DATA SCIENCE\\TAREA 4\\mef_subnational_efficiency_mcp\\mef_subnational_efficiency_mcp\\data\\snapshots\\schema_2025_2025-12.json",
+  "processed_path": "C:\\Users\\ASUS VIVOBOOK\\OneDrive - Universidad de Lima\\UP DATA SCIENCE\\TAREA 4\\mef_subnational_efficiency_mcp\\mef_subnational_efficiency_mcp\\data\\processed\\exec_2025_2025-12.parquet",
+  "generated_at": "2026-06-06T23:19:03.461283+00:00"
+}
