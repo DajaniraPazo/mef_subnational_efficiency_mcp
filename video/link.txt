@@ -1,6 +1,2 @@
-# TODO: reemplaza esta línea con la URL pública (YouTube/Drive/etc.) del video de presentación (≤ 5 min).
-# Debe cubrir las listas de verificación de la Parte I (3-4 diapositivas: diseño de habilidades,
-# innovación de la arquitectura, proceso PaddleOCR de 1964, asignación de herramientas MCP,
-# optimizaciones de eficiencia, pruebas de rendimiento, impacto del Evaluator) y de la Parte II
-# (definición del problema, demo en vivo de las 4 pestañas, interpretación de la perspectiva
-# histórica de 1964, utilidad del sistema, limitaciones y próximos pasos). Sin recorrido de código.
+https://drive.google.com/file/d/1qa5-JsH4qskXU_JVF2NCwMpfTvSyxEgA/view?usp=drive_link
+Ver en velocidad 1.5, por favor. 
